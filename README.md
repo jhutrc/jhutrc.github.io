@@ -1,7 +1,7 @@
 
-*by Allan Massie et al.*
 
-# 1. ERGOT SRTR analytical code
+
+# 1. ERGOT SRTR analytical code [^1]
 
 **Look for code by Ctrl+F**
 **Be aware that there will be a 6-month lag in SRTR data update for outcomes that need follow-up, such as death and graft failure. So for example if you have Sep 2015 data set, it’s safer to include data in or earlier than Mar 2015 for analysis of these outcomes**
@@ -39,6 +39,8 @@
 27. [De-identification Code](https://raw.githubusercontent.com/jhutrc/jhutrc.github.io/main/27.d-identification.code.do)
 28. [Transplant Date](https://raw.githubusercontent.com/jhutrc/jhutrc.github.io/main/28.transplant.date.do)
 29. [LDPKI](https://raw.githubusercontent.com/jhutrc/jhutrc.github.io/main/29.ldpki.do)
+
+[^1]: by Allan Massie et al.
 
 
 # 2. Some additional notes about SRTR models 
