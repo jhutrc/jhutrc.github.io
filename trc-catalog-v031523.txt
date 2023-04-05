@@ -1,0 +1,588 @@
+TRCID	pmid	publicationyear	firstauthor	journalbook	title
+1	15840863	2005	Segev DL	JAMA	Kidney paired donation and optimizing the use of live donor organs
+2	15996239	2005	Gentry SE	Am J Transplant	A comparison of populations served by kidney paired donation and list paired donation
+3	16162194	2005	Segev DL	Am J Transplant	Characterization of waiting times in a simulation of kidney paired donation
+4	16162210	2005	Segev DL	Am J Transplant	ABO incompatible high-titer renal transplantation without splenectomy or anti-CD20 treatment
+5	16204665	2005	Montgomery RA	JAMA	Clinical results from transplanting incompatible live kidney donor/recipient pairs using kidney paired donation
+6	21652471	2005	Ashman TL	Am J Bot	Are flower-visiting ants mutualists or antagonists? A study in a gynodioecious wild strawberry
+7	16436973	2006	Stewart ZA	Transplantation	Successful transplantation of cadaveric polycystic liver: case report and review of the literature
+8	16858275	2006	Montgomery RA	Transplantation	New options for patients with donor incompatibilities
+9	16876670	2006	Montgomery RA	Lancet	Domino paired kidney donation: a strategy to make best use of live non-directed donation
+10	16889542	2006	Haas M	Am J Transplant	C4d and C3d staining in biopsies of ABO- and HLA-incompatible renal allografts: correlation with histologic findings
+11	17198260	2006	Lee KW	Transplantation	Factors affecting graft survival after liver transplantation from donation after cardiac death donors
+12	17227561	2007	Simpkins CE	Am J Transplant	Cold ischemia time and allograft outcomes in live donor renal transplantation: is live donor organ transport feasible?
+13	17229067	2007	Haas M	Am J Transplant	Subclinical acute antibody-mediated rejection in positive crossmatch renal allografts
+14	17391127	2007	Locke JE	Am J Transplant	The utility of splenectomy as rescue treatment for severe acute antibody mediated rejection
+15	17457933	2007	Thuluvath PJ	Liver Transpl	Trends in post-liver transplant survival in patients with hepatitis C between 1991 and 2001 in the United States
+16	17464970	2007	Nguyen GC	Hepatology	Racial disparities in the management of hospitalized patients with cirrhosis and complications of portal hypertension: a national study
+17	17524076	2007	Locke JE	Am J Transplant	Outcomes of kidneys from donors after cardiac death: implications for allocation and preservation
+18	17625983	2007	Nguyen GC	Clin Gastroenterol Hepatol	Nationwide increase in hospitalizations and hepatitis C among inpatients with cirrhosis and sequelae of portal hypertension
+19	17723788	2007	Kates SL	Injury	Advances in the medical management of osteoporosis
+20	17763380	2007	Segev DL	Liver Transpl	Twenty years of liver transplantation for Budd-Chiari syndrome: a national registry analysis
+21	17845570	2007	Gentry SE	Am J Transplant	Expanding kidney paired donation through participation by compatible pairs
+22	17845574	2007	Segev DL	Am J Transplant	Association between waiting times for kidney transplantation and rates of live donation
+23	17918247	2007	Segev DL	Hepatology	Minimizing risk associated with elderly liver donors by matching to preferred recipients
+24	18094366	2008	Segev DL	J Am Soc Nephrol	Obesity impacts access to kidney transplantation
+25	18161799	2008	Millwala F	Liver Transpl	Caroli's disease and outcomes after liver transplantation
+26	18162088	2008	Gentry SE	Am J Transplant	Working together toward a national kidney paired donation program
+27	18181671	2008	Haas M	Arch Pathol Lab Med	Arteriosclerosis in kidneys from healthy live donors: comparison of wedge and needle core perioperative biopsies
+28	18294162	2008	Segev DL	Am J Transplant	Effect modification in liver allografts with prolonged cold ischemic time
+29	18383081	2008	Segev DL	Liver Transpl	Steroid avoidance in liver transplantation: meta-analysis and meta-regression of randomized trials
+30	18408571	2008	Locke JE	Transplantation	Declining outcomes in simultaneous liver-kidney transplantation in the MELD era: ineffective usage of renal allografts
+31	18416741	2008	Segev DL	Am J Transplant	Regional and racial disparities in the use of live non-directed kidney donors
+32	18522546	2008	Lee KW	Am J Transplant	Factors affecting graft survival after adult/child split-liver transplantation: analysis of the UNOS/OPTN data base
+33	18650478	2008	Locke JE	J Am Soc Nephrol	Donor ethnicity influences outcomes following deceased-donor kidney transplantation in black recipients
+34	18685336	2008	Singer AL	Curr Opin Organ Transplant	The high-risk donor: viral infections in solid organ transplantation
+35	18724216	2008	Segev DL	Transplantation	Utilization and outcomes of kidney paired donation in the United States
+36	18828774	2008	Montgomery RA	Am J Transplant	Successful three-way kidney paired donation with cross-country live donor allograft transport
+37	18928940	2008	Nguyen GC	Clin Gastroenterol Hepatol	Race is a predictor of in-hospital mortality after cholecystectomy, especially in those with portal hypertension
+38	18948816	2008	Segev DL	Ann Surg	Prolonged waiting times for liver transplantation in obese patients
+39	19569286	2008	Henderson ML	Pharm Hist	Sister pharmacists and pharmacy organizations, 1900 to 1980
+40	18776120	2009	Haas M	J Am Soc Nephrol	C4d deposition without rejection correlates with reduced early scarring in ABO-incompatible renal allografts
+41	18976298	2009	Locke JE	Am J Transplant	The use of antibody to complement protein C5 for salvage treatment of severe antibody-mediated rejection
+42	18986383	2009	Stewart ZA	Am J Transplant	Histidine-tryptophan-ketoglutarate (HTK) is associated with reduced graft survival in pancreas transplantation
+43	19067658	2009	Stewart ZA	Am J Transplant	Histidine-Tryptophan-Ketoglutarate (HTK) is associated with reduced graft survival in deceased donor livers, especially those donated after cardiac death
+44	19129311	2009	Segev DL	J Am Soc Nephrol	Age and comorbidities are effect modifiers of gender disparities in renal transplantation
+45	19153330	2009	Locke JE	Arch Surg	Renal transplant in HIV-positive patients: long-term outcomes and risk factors for graft loss
+46	19191765	2009	Kucirka LM	Am J Transplant	Formal policies and special informed consent are associated with higher provider utilization of CDC high-risk donor organs
+47	19191766	2009	Kucirka LM	Am J Transplant	Viral nucleic acid testing (NAT) and OPO-level disposition of high-risk donor organs
+48	19260837	2009	Lonze BE	Am J Transplant	Kidney transplantation in previous heart or lung recipients
+49	19279341	2009	Rees MA	N Engl J Med	A nonsimultaneous, extended, altruistic-donor chain
+50	19298449	2009	Stewart ZA	Am J Transplant	Histidine-tryptophan-ketoglutarate (HTK) is associated with reduced graft survival of deceased donor kidney transplants
+51	19384174	2009	Montgomery RA	Transplantation	ABO incompatible renal transplantation: a paradigm ready for broad implementation
+52	19422344	2009	Kucirka LM	Am J Transplant	Provider utilization of high-risk donor organs and nucleic acid testing: results of two national surveys
+53	19459793	2009	Massie AB	Am J Transplant	The effects of DonorNet 2007 on kidney distribution equity and efficiency
+54	19459795	2009	Segev DL	Am J Transplant	Evaluating options for utility-based kidney allocation
+55	19519807	2009	Freeman RB	Am J Transplant	Moving kidney allocation forward: the ASTS perspective
+56	19535648	2009	Henderson ML	Am J Health Syst Pharm	Sister pharmacists and pharmacy organizations, 1900 to 1980
+57	19538492	2009	Kraus ES	Am J Transplant	Subclinical rejection in stable positive crossmatch kidney transplant patients: incidence and correlations
+58	19562709	2009	Thuluvath PJ	Liver Transpl	Survival after liver transplantation for hepatocellular carcinoma in the model for end-stage liver disease and pre-model for end-stage liver disease eras and the independent impact of hepatitis C virus
+59	19562711	2009	Nguyen GC	Liver Transpl	Volumes of liver transplant and partial hepatectomy procedures are independently associated with lower postoperative mortality following resection for hepatocellular carcinoma
+60	19642117	2009	Stewart ZA	Liver Transpl	ABO-incompatible deceased donor liver transplantation in the United States: a national registry analysis
+61	19656136	2009	Gentry SE	Am J Transplant	The roles of dominos and nonsimultaneous chains in kidney paired donation
+62	19845587	2009	Melancon JK	Am J Transplant	Impact of Medicare coverage on disparities in access to simultaneous pancreas and kidney transplantation
+63	19938120	2009	Stewart ZA	Liver Transpl	Increased risk of graft loss from hepatic artery thrombosis after liver transplantation with older donors
+64	20006794	2009	Huang E	Semin Nephrol	Kidney transplantation in the elderly
+65	20524301	2009	Lonze BE	Clin Transpl	The fate of anti-HLA antibody among renal transplantation recipients treated with bortezomib
+66	20121734	2010	Humar A	Am J Transplant	Nucleic acid testing (NAT) of organ donors: is the 'best' test the right test? A consensus conference report
+67	20148808	2010	Grams ME	Am J Transplant	Listing for expanded criteria donor kidneys in older adults and those with predicted benefit
+68	20157088	2010	Stojadinovic A	Arch Surg	Translational research in surgical disease
+69	20199503	2010	Aronsohn A	Am J Transplant	How different conceptions of risk are used in the organ market debate
+70	20215610	2010	Segev DL	JAMA	Perioperative mortality and long-term survival following live kidney donation
+71	20347513	2010	Kayler LK	Am J Kidney Dis	The impact of nonidentical ABO deceased donor kidney transplant on kidney utilization
+72	20353475	2010	Kucirka LM	Am J Transplant	Underutilization of hepatitis C-positive kidneys for hepatitis C-positive recipients
+73	20373453	2010	Segev DL	Liver Transpl	The application of paired donation to live donor liver transplantation
+74	20420648	2010	Axelrod DA	Am J Transplant	Kidney and pancreas transplantation in the United States, 1999-2008: the changing face of living donation
+75	20494953	2010	Hinrichsen GA	Gerontologist	Influencing public policy to improve the lives of older Americans
+76	20510798	2010	Makary MA	J Am Coll Surg	Frailty as a predictor of surgical outcomes in older patients
+77	20553450	2010	Allaf ME	Am J Transplant	Laparoscopic live donor nephrectomy with vaginal extraction: initial report
+78	20636451	2010	Lonze BE	Am J Transplant	Eculizumab, bortezomib and kidney paired donation facilitate transplantation of a highly sensitized patient without vascular access
+79	20642686	2010	Massie AB	Am J Transplant	Improving distribution efficiency of hard-to-place deceased donor kidneys: Predicting probability of discard or delay
+80	20659090	2010	Lonze BE	Am J Transplant	Operative start times and complications after liver transplantation
+81	20670867	2010	Englesbe MJ	J Am Coll Surg	Sarcopenia and mortality after liver transplantation
+82	20798250	2010	Axelrod DA	Clin J Am Soc Nephrol	The interplay of socioeconomic status, distance to center, and interdonor service area travel on kidney transplant access and outcomes
+83	20977638	2010	Massie AB	Am J Transplant	Center-level patterns of indicated willingness to and actual acceptance of marginal kidneys
+84	23569657	2010	Kates SL	Geriatr Orthop Surg Rehabil	Comparison of an organized geriatric fracture program to United States government data
+85	20418115	2011	Kucirka LM	Cardiovasc Pathol	Survey of North American pathologist practices regarding antibody-mediated rejection in cardiac transplant biopsies
+86	20822924	2011	Maleszewski JJ	Cardiovasc Pathol	Survey of current practice related to grading of rejection in cardiac transplant recipients in North America
+87	21070602	2011	Englesbe MJ	Am J Transplant	Young transplant surgeons and NIH funding
+88	21184921	2011	Gentry SE	Am J Kidney Dis	Kidney paired donation: fundamentals, limitations, and expansions
+89	21205759	2011	Nathan H	J Clin Oncol	Understanding surgical decision making in early hepatocellular carcinoma
+90	21242444	2011	Kucirka LM	Arch Surg	Provider response to a rare but highly publicized transmission of HIV through solid organ transplantation
+91	21272238	2011	Segev DL	Am J Transplant	Transporting live donor kidneys for kidney paired donation: initial national results
+92	21285917	2011	Dagher NN	Transplantation	Outcomes and discard of kidneys from pediatric donors after cardiac death
+93	21342442	2011	Segev DL	Am J Transplant	Renal allograft survival: getting better all the time
+94	21366859	2011	Kucirka LM	Am J Transplant	Risk of window period HIV infection in high infectious risk donors: systematic review and meta-analysis
+95	21384505	2011	Salvalaggio PR	Liver Transpl	The interaction among donor characteristics, severity of liver disease, and the cost of liver transplantation
+96	21401867	2011	Axelrod DA	Am J Transplant	The economic implications of broader sharing of liver allografts
+97	21401874	2011	Kucirka LM	Am J Transplant	Risk of window period hepatitis-C infection in high infectious risk donors: systematic review and meta-analysis
+98	21415830	2011	Kucirka LM	Curr Opin Organ Transplant	High infectious risk donors: what are the risks and when are they too high?
+99	21443677	2011	Boyarsky BJ	Am J Transplant	Estimating the potential pool of HIV-infected deceased organ donors in the United States
+100	21617118	2011	Grams ME	J Am Soc Nephrol	Trends in the timing of pre-emptive kidney transplantation
+101	21784826	2011	Garonzik Wang JM	Clin J Am Soc Nephrol	Incompatible live-donor kidney transplantation in the United States: results of a national survey
+102	21793744	2011	Montgomery RA	N Engl J Med	Desensitization in HLA-incompatible kidney recipients and survival
+103	21794084	2011	Deshpande NA	Am J Transplant	Pregnancy outcomes in kidney transplant recipients: a systematic review and meta-analysis
+104	21802805	2011	Hall EC	Am J Kidney Dis	Effect of eliminating priority points for HLA-B matching on racial disparities in kidney transplant rates
+105	21828325	2011	Kucirka LM	JAMA	Association of race and age with survival among patients undergoing dialysis
+106	21907843	2011	Zenilman ME	Curr Probl Surg	New developments in geriatric surgery
+107	21940839	2011	Van Arendonk KJ	Clin J Am Soc Nephrol	Late graft loss among pediatric recipients of DCD kidneys
+108	22034505	2011	Berger JC	Clin J Am Soc Nephrol	Living kidney donors ages 70 and older: recipient and donor outcomes
+109	22053930	2011	Gentry SE	Am J Transplant	The honeymoon phase and studies of nonsimultaneous chains in kidney-paired donation
+110	22054039	2011	Living Kidney Donor Follow-Up Conference Writing Group	Am J Transplant	Living kidney donor follow-up: state-of-the-art and future directions, conference summary and recommendations
+111	22106317	2011	Lonze BE	Arch Surg	Outcomes of renal transplants from Centers for Disease Control and Prevention high-risk donors with prospective recipient viral testing: a single-center experience
+112	22754414	2011	Kim S	HSS J	Nonanemic patients do not benefit from autologous blood donation before total knee replacement
+113	22755420	2011	Gentry S	Clin Transpl	Living donor kidney exchange
+114	21554396	2012	Ros RL	Clin Transplant	Patient attitudes toward CDC high infectious risk donor kidney transplantation: inferences from focus groups
+115	21968525	2012	Boyarsky BJ	Transplantation	Potential limitations of presumed consent legislation
+116	21992578	2012	Garonzik-Wang JM	Am J Transplant	The aggressive phenotype: center-level patterns in the utilization of suboptimal kidneys
+117	22009384	2012	Nathan H	Cancer	National trends in surgical procedures for hepatocellular carcinoma: 1998-2008
+118	22066793	2012	Maheshwari A	Clin Transplant	Outcomes of liver transplantation for glycogen storage disease: a matched-control study and a review of literature
+119	22108193	2012	Muzaale AD	Gastroenterology	Estimates of early death, acute liver failure, and long-term mortality among live liver donors
+120	22151011	2012	Kucirka LM	Am J Transplant	Disparities in provision of transplant information affect access to kidney transplantation
+121	22176745	2012	Englesbe MJ	Am J Transplant	Time-trends in publication productivity of young transplant surgeons in the United States
+122	22239290	2012	Grams ME	J Am Geriatr Soc	Candidacy for kidney transplantation of older adults
+123	22275402	2012	Durand CM	J Infect Dis	HIV-1 DNA is detected in bone marrow populations containing CD4+ T cells but is not found in purified CD34+ hematopoietic progenitor cells in most patients on antiretroviral therapy
+124	22283924	2012	Shah S	Transpl Infect Dis	Chryseobacterium indologenes subcutaneous port-related bacteremia in a liver transplant patient
+125	22290268	2012	Montgomery JR	Transplantation	Outcomes of ABO-incompatible kidney transplantation in the United States
+126	22344967	2012	Deshpande NA	Liver Transpl	Pregnancy outcomes of liver transplant recipients: a systematic review and meta-analysis
+127	22351919	2012	Garonzik-Wang JM	Arch Surg	Frailty and delayed graft function in kidney transplant recipients
+128	22370021	2012	Hall EC	Am J Kidney Dis	Center-level factors and racial disparities in living donor kidney transplantation
+129	22404601	2012	Segev DL	Clin Transplant	Willingness of the United States general public to participate in kidney paired donation
+130	22450438	2012	Schold JD	Nat Rev Nephrol	Increasing the pool of deceased donor organs for kidney transplantation
+131	22461037	2012	Garonzik-Wang JM	Transplantation	Live donor champion: finding live kidney donors by separating the advocate from the patient
+132	22549232	2012	Segev DL	Nat Rev Nephrol	Innovative strategies in living donor kidney transplantation
+133	22560841	2012	Kucirka LM	Am J Kidney Dis	Impact of donor hepatitis C virus infection status on death and need for liver transplant in hepatitis C virus-positive kidney transplant recipients
+134	22563648	2012	Shaw TM	Clin Transplant	Operative start times and complications after kidney transplantation
+135	22672201	2012	Sun Q	Transpl Infect Dis	Pre-transplant myeloid dendritic cell deficiency associated with cytomegalovirus infection and death after kidney transplantation
+136	22703559	2012	Ross LF	Am J Transplant	Equal Opportunity Supplemented by Fair Innings: equity and efficiency in allocating deceased donor kidneys
+137	22732046	2012	Gentry SE	Adv Chronic Kidney Dis	Controversies in kidney paired donation
+138	22735712	2012	Alachkar N	Transplantation	Infusion of high-dose intravenous immunoglobulin fails to lower the strength of human leukocyte antigen antibodies in highly sensitized patients
+139	22790073	2012	Montgomery RA	Curr Opin Organ Transplant	HLA incompatible renal transplantation
+140	22878067	2012	Taylor LA	Prog Transplant	Living kidney donors and their family caregivers: developing an evidence-based educational and social support website
+141	22883444	2012	Balhara KS	Am J Transplant	Disparities in provision of transplant education by profit status of the dialysis center
+142	22932116	2012	Grams ME	Transplantation	Recipient age and time spent hospitalized in the year before and after kidney transplantation
+143	22958872	2012	Abecassis M	Am J Transplant	Solid-organ transplantation in older adults: current status and future research
+144	23016838	2012	McAdams-Demarco MA	Am J Transplant	Early hospital readmission after kidney transplantation: patient and center-level associations
+145	23057455	2012	McAdams-Demarco MA	J Am Geriatr Soc	Activity of daily living disability and dialysis mortality: better prediction using metrics of aging
+146	23096176	2012	Chu LC	AJR Am J Roentgenol	Role of MDCT angiography in selection and presurgical planning of potential renal donors
+147	23157207	2012	Smith JM	Am J Transplant	Kidney, pancreas and liver allocation and distribution in the United States
+148	23256409	2012	Henderson ML	J Clin Ethics	Providing more reasons for individuals to register as organ donors
+149	23250334	2013	Dzebisashvili N	Transplantation	Following the organ supply: assessing the benefit of inter-DSA travel in liver transplantation
+150	23279681	2013	Schold JD	Am J Transplant	The association of center performance evaluations and kidney transplant volume in the United States
+151	23331953	2013	Hall EC	Am J Transplant	Racial/ethnic differences in cancer risk after kidney transplantation
+152	23371953	2013	Grams ME	Clin J Am Soc Nephrol	Preemptive deceased donor kidney transplantation: considerations of equity and utility
+153	23385862	2013	Durand CM	Curr Opin Oncol	Hematopoietic stem cell transplantation in HIV-1-infected individuals: clinical challenges and the potential for viral eradication
+154	23398969	2013	Melcher ML	Am J Transplant	Dynamic challenges inhibiting optimal adoption of kidney paired donation: findings of a consensus conference
+155	23399028	2013	Grams ME	Am J Transplant	Trends in the inactive kidney transplant waitlist and implications for candidate survival
+156	23414232	2013	Garonzik-Wang JM	Am J Transplant	The aggressive phenotype revisited: utilization of higher-risk liver allografts
+157	23430210	2013	Van Arendonk KJ	Clin J Am Soc Nephrol	Age at graft loss after pediatric kidney transplantation: exploring the high-risk age window
+158	23432974	2013	Neofytos D	Transpl Infect Dis	Epidemiology, outcomes, and mortality predictors of invasive mold infections among transplant recipients: a 10-year, single-center experience
+159	23447420	2013	Gentry SE	Liver Transpl	Fast-tracking and fairness: getting organ offers quickly to candidates who will accept them
+160	23463990	2013	Massie AB	Am J Transplant	Center-level utilization of kidney paired donation
+161	23531054	2013	Lentine KL	Transpl Int	Health outcomes among non-Caucasian living kidney donors: knowns and unknowns
+162	23549198	2013	Van Arendonk KJ	Transplantation	Practice patterns and outcomes in retransplantation among pediatric kidney transplant recipients
+163	23559438	2013	Hall EC	Cancer	Cumulative incidence of cancer after solid organ transplantation
+164	23601095	2013	Blumberg EA	Am J Transplant	Optimal testing of the live organ donor for blood-borne viral pathogens: the report of a consensus conference
+165	23621162	2013	Chow EK	Am J Transplant	Identifying appropriate recipients for CDC infectious risk donor kidneys
+166	23649019	2013	Singer AL	Nat Rev Nephrol	Transplantation: Alloantibodies in simultaneous liver-kidney transplantation
+167	23711111	2013	McAdams-DeMarco MA	J Am Geriatr Soc	Frailty as a novel predictor of mortality and hospitalization in individuals of all ages undergoing hemodialysis
+168	23731461	2013	McAdams-DeMarco MA	Am J Transplant	Frailty and early hospital readmission after kidney transplantation
+169	23777475	2013	Cameron AM	Am J Transplant	Social media and organ donor registration: the Facebook effect
+170	23792504	2013	Gulsen MT	Ann Transplant	HTK preservative solution is associated with increased biliary complications among patients receiving DCD liver transplants: a single center experience
+171	23799426	2013	Hall EC	Transplantation	Cancer risk after ABO-incompatible living-donor kidney transplantation
+172	23813134	2013	Tabibian JH	Ann Hepatol	Sirolimus based immunosuppression is associated with need for early repeat therapeutic ERCP in liver transplant patients with anastomotic biliary stricture
+173	23837931	2013	Gentry SE	Am J Transplant	Addressing geographic disparities in liver transplantation through redistricting
+174	23845618	2013	Van Arendonk KJ	J Pediatr Surg	Living unrelated renal transplantation: a good match for the pediatric candidate?
+175	23890285	2013	Massie AB	Am J Transplant	Rates of false flagging due to statistical artifact in CMS evaluations of transplant programs: results of a stochastic simulation
+176	23956167	2013	Durand CM	Clin Infect Dis	Detection of cytomegalovirus DNA in plasma as an adjunct diagnostic for gastrointestinal tract disease in kidney and liver transplant recipients
+177	24002689	2013	Van Arendonk KJ	Transplantation	Order of donor type in pediatric kidney transplant recipients requiring retransplantation
+178	24071650	2013	Lentine KL	Clin J Am Soc Nephrol	Better understanding live donor risk through big data
+179	24100847	2013	Garonzik-Wang JM	Transplantation	International kidney paired donation
+180	24131569	2013	McAdams-DeMarco MA	BMC Nephrol	Frailty and falls among adult patients undergoing chronic hemodialysis: a prospective cohort study
+181	24162248	2014	Locke JE	Transplantation	Immunosuppression regimen and the risk of acute rejection in HIV-infected kidney transplant recipients
+182	24165015	2014	Axelrod DA	Am J Transplant	Assessing variation in the costs of care among patients awaiting liver transplantation
+183	24192712	2014	Lentine KL	Transplantation	Consistency of racial variation in medical outcomes among publicly and privately insured living kidney donors
+184	24400968	2014	Lonze BE	Am J Transplant	Eculizumab prevents recurrent antiphospholipid antibody syndrome and enables successful renal transplantation
+185	24447652	2014	McAdams-Demarco MA	Am J Transplant	Sequelae of early hospital readmission after kidney transplantation
+186	24452612	2014	Hall EC	JAMA Surg	Perioperative complications after live-donor hepatectomy
+187	24478266	2014	Axelrod DA	Liver Transpl	National assessment of early biliary complications following liver transplantation: incidence and outcomes
+188	24480655	2014	Locke JE	Am J Kidney Dis	Is there a role for detection of complement-binding antibodies in kidney transplantation?
+189	24519297	2014	Muzaale AD	JAMA	Risk of end-stage renal disease following live kidney donation
+190	24521779	2014	Sharif A	Transplantation	Histologic phenotype on 1-year posttransplantation biopsy and allograft survival in HLA-incompatible kidney transplants
+191	24616363	2014	Van Arendonk KJ	Pediatrics	National trends over 25 years in pediatric kidney transplant outcomes
+192	24673146	2014	Gupta N	Clin Transplant	Assessment of resident and fellow knowledge of the organ donor referral process
+193	24801541	2014	Salter ML	J Am Geriatr Soc	Age and sex disparities in discussions about kidney transplantation in adults undergoing dialysis
+194	24837542	2014	Gupta N	Transplantation	Actual and perceived knowledge of kidney transplantation and the pursuit of a live donor
+195	24913913	2014	Orandi BJ	Am J Transplant	Quantifying the risk of incompatible kidney transplantation: a multicenter study
+196	24933253	2014	Locke JE	Transplantation	The authors' reply
+197	24963818	2014	Chen P	Transpl Int	Blood dendritic cell levels associated with impaired IL-12 production and T-cell deficiency in patients with kidney disease: implications for post-transplant viral infections
+198	24975028	2014	Gentry SE	Liver Transpl	Impact of broader sharing on the transport time for deceased donor livers
+199	24978035	2014	Lentine KL	Transplantation	Early clinical complications after ABO-incompatible live-donor kidney transplantation: a national study of Medicare-insured recipients
+200	25005264	2014	Cooper MA	BMJ	Hospital level under-utilization of minimally invasive surgery in the United States: retrospective review
+201	25040084	2014	Massie AB	Am J Transplant	Big data in organ transplantation: registries and administrative claims
+202	25041695	2014	Boyarsky BJ	Am J Transplant	Experiences obtaining insurance after live kidney donation
+203	25058226	2014	Muzaale AD	JAMA	Kidney donation and risk of ESRD--reply
+204	25058228	2014	Massie AB	JAMA	Outcomes after kidney donation
+205	25116729	2014	Nelson GE	Clin Infect Dis	A 70-year-old kidney transplant recipient presenting with persistent leg cellulitis
+206	25119126	2014	Axelrod DA	Transplantation	National assessment of early biliary complications after liver transplantation: economic implications
+207	25121475	2014	Orandi BJ	Transplantation	Eculizumab and splenectomy as salvage therapy for severe antibody-mediated rejection after HLA-incompatible kidney transplantation
+208	25139729	2014	Massie AB	Am J Transplant	Survival benefit of primary deceased donor transplantation with high-KDPI kidneys
+209	25168028	2014	Salter ML	J Am Soc Nephrol	Patient- and provider-reported information about transplantation and subsequent waitlisting
+210	25196154	2014	Lentine KL	Am J Nephrol	Understanding antihypertensive medication use after living kidney donation through linked national registry and pharmacy claims data
+211	25212908	2014	Salter ML	Clin J Am Soc Nephrol	Health-related and psychosocial concerns about transplantation among patients initiating dialysis
+212	25307038	2014	Buccini LD	Am J Transplant	Association between liver transplant center performance evaluations and transplant volume
+213	25439325	2014	McAdams-DeMarco MA	J Am Geriatr Soc	Trends in kidney transplant outcomes in older adults
+214	25054778	2015	Jackson AM	Kidney Int	A closer look at rituximab induction on HLA antibody rebound following HLA-incompatible kidney transplantation
+215	25312804	2015	Berli JU	Clin Transplant	Surgical management of early and late ureteral complications after renal transplantation: techniques and outcomes
+216	25340595	2015	Hall EC	Transplantation	Association of antibody induction immunosuppression with cancer after kidney transplantation
+217	25340600	2015	Orandi BJ	Transplantation	Center-level variation in the development of delayed graft function after deceased donor kidney transplantation
+218	25359393	2015	McAdams-DeMarco MA	Am J Transplant	Frailty and mortality in kidney transplant recipients
+219	25390288	2015	Latt NL	Minerva Gastroenterol Dietol	Management of hepatitis C infection among patients with renal failure
+220	25393156	2015	McAdams-DeMarco MA	Transplantation	Frailty, mycophenolate reduction, and graft loss in kidney transplant recipients
+221	25395390	2015	Jing J	Nephrol Dial Transplant	Prevalence and correlates of gout in a large cohort of patients with chronic kidney disease: the German Chronic Kidney Disease (GCKD) study
+222	25397608	2015	Garg AX	N Engl J Med	Gestational hypertension and preeclampsia in living kidney donors
+223	25467649	2015	Christenson ES	Lancet Infect Dis	Pasteurella multocida infection in solid organ transplantation
+224	25522018	2015	Yanik EL	Am J Transplant	Sirolimus use and cancer incidence among US kidney transplant recipients
+225	25534447	2015	Axelrod DA	Am J Transplant	Variation in biliary complication rates following liver transplantation: implications for cost and outcome
+226	25556648	2015	Gentry SE	Liver Transpl	Liver sharing and organ procurement organization performance
+227	25611786	2015	Orandi BJ	Am J Transplant	Quantifying renal allograft loss following early antibody-mediated rejection
+228	25612497	2015	Van Arendonk KJ	Am J Transplant	"Loss of pediatric kidney grafts during the ""high-risk age window"": insights from pediatric liver and simultaneous liver-kidney recipients"
+229	25635038	2015	Locke JE	Clin J Am Soc Nephrol	Identification of strategies to facilitate organ donation among African Americans using the nominal group technique
+230	25648884	2015	LaPointe Rudow D	Am J Transplant	Consensus conference on best practices in live kidney donation: recommendations to optimize education, access, and care
+231	25693474	2015	Massie AB	Am J Transplant	Early changes in liver distribution following implementation of Share 35
+232	25738981	2015	Malas MB	JAMA Surg	Trends in incident hemodialysis access and mortality
+233	25762287	2015	Massie AB	Liver Transpl	Higher Mortality in registrants with sudden model for end-stage liver disease increase: Disadvantaged by the current allocation policy
+234	25807207	2015	Xu T	JAMA Surg	Hospital cost implications of increased use of minimally invasive surgery
+235	25833728	2015	Fisher JS	Am J Transplant	Between Scylla and Charybdis: charting an ethical course for research into financial incentives for living kidney donation
+236	25881073	2015	Salter ML	BMC Nephrol	Perceptions about hemodialysis and transplantation among African American adults with end-stage renal disease: inferences from focus groups
+237	25896309	2015	Lam NN	Am J Nephrol	Gout after living kidney donation: correlations with demographic traits and renal complications
+238	25903561	2015	Salter ML	BMC Geriatr	Perceived frailty and measured frailty among adults undergoing hemodialysis: a cross-sectional analysis
+239	25990089	2015	Gentry SE	Liver Transpl	Liver sharing and organ procurement organization performance under redistricted allocation
+240	26006192	2015	Araz F	Turk J Gastroenterol	New modalities in the treatment of HCV in pre and post - transplantation setting
+241	26059180	2015	Pilie P	Transpl Infect Dis	Adult patients with respiratory syncytial virus infection: impact of solid organ and hematopoietic stem cell transplantation on outcomes
+242	26227016	2015	Lentine KL	Clin Transplant	Gender differences in use of prescription narcotic medications among living kidney donors
+243	26359787	2015	Wang CW	Liver Transpl	Functional impairment in older liver transplantation candidates: From the functional assessment in liver transplantation study
+244	26573615	2015	McAdams-DeMarco MA	Clin J Am Soc Nephrol	Frailty and Cognitive Function in Incident Hemodialysis Patients
+245	26640901	2015	Ofosu A	Exp Clin Transplant	Implications of Treating Hepatitis C Virus Infection Among Patients Awaiting Cadaveric Liver Transplant: A Single-Center Experience
+246	26563524	2016	Naik AS	Transpl Int	Clinical and economic consequences of first-year urinary tract infections, sepsis, and pneumonia in contemporary kidney transplantation practice
+247	26779694	2016	Gentry SE	Am J Transplant	The Impact of Redistricting Proposals on Health Care Expenditures for Liver Transplant Candidates and Recipients
+248	26784951	2016	Yanik EL	Liver Transpl	Effects of maintenance immunosuppression with sirolimus after liver transplant for hepatocellular carcinoma
+249	26890629	2016	Fontana RJ	Liver Transpl	Daclatasvir combined with sofosbuvir or simeprevir in liver transplant recipients with severe recurrent hepatitis C infection
+250	26891750	2016	Baer AN	BMC Musculoskelet Disord	Dual-energy computed tomography has limited sensitivity for non-tophaceous gout: a comparison study with tophaceous gout
+251	26901466	2016	Axelrod DA	Am J Transplant	National Variation in Use of Immunosuppression for Kidney Transplantation: A Call for Evidence-Based Regimen Selection
+252	26913379	2016	Chen PH	Clin Transplant	Effect of prior hepatitis B virus exposure on long-term risk of liver-related events after liver transplantation
+253	26915843	2016	Lentine KL	Transplant Proc	Variation in Comedication Use According to Kidney Transplant Immunosuppressive Regimens: Application of Integrated Registry and Pharmacy Claims Data
+254	26950718	2016	Alhamad T	Transplantation	Pretransplant Midodrine Use: A Newly Identified Risk Marker for Complications After Kidney Transplantation
+255	27111897	2016	Kucirka LM	Am J Transplant	Induction Immunosuppression and Clinical Outcomes in Kidney Transplant Recipients Infected With Human Immunodeficiency Virus
+256	27172445	2016	Muzaale AD	Am J Transplant	Recipient Outcomes Following Transplantation of Allografts From Live Kidney Donors Who Subsequently Developed End-Stage Renal Disease
+257	27191202	2016	Cosar AM	Curr Opin Infect Dis	Hepatitis C following liver transplantation: current approach and future research opportunities
+258	27459138	2016	Lopez J	Orthopedics	A New Culture of Transparency: Industry Payments to Orthopedic Surgeons
+259	27564782	2016	Dharnidharka VR	Transpl Int	Differential risks for adverse outcomes 3 years after kidney transplantation based on initial immunosuppression regimen: a national study
+260	27769175	2016	Tan J	BMC Nephrol	Warfarin use and stroke, bleeding and mortality risk in patients with end stage renal disease and atrial fibrillation: a systematic review and meta-analysis
+261	27305590	2017	Shelton BA	Am J Transplant	Increased Mortality and Graft Loss With Kidney Retransplantation Among Human Immunodeficiency Virus (HIV)-Infected Recipients
+262	27457221	2017	Chow EK	Am J Transplant	Waitlist Outcomes of Liver Transplant Candidates Who Were Reprioritized Under Share 35
+263	27589826	2017	Lentine KL	Am J Transplant	Predonation Prescription Opioid Use: A Novel Risk Factor for Readmission After Living Kidney Donation
+264	28027603	2017	Randall HB	Liver Transpl	Survival implications of opioid use before and after liver transplantation
+265	28041626	2017	Locke JE	Kidney Int	Obesity increases the risk of end-stage renal disease among living kidney donors
+266	28075034	2017	Locke JE	Clin Transplant	Abdominal lean muscle is associated with lower mortality among kidney waitlist candidates
+267	28089555	2017	Le J	Transplant Rev (Orlando)	Epstein-Barr virus and renal transplantation
+268	28120282	2017	Tan J	J Nephrol	Treatment of atrial fibrillation with warfarin among older adults with end stage renal disease
+269	28207630	2017	OʼConnell PJ	Transplantation	Clinical Trials for Immunosuppression in Transplantation: The Case for Reform and Change in Direction
+270	28232406	2017	Locke JE	Clin J Am Soc Nephrol	Access to Kidney Transplantation among HIV-Infected Waitlist Candidates
+271	28342085	2017	Muzaale AD	Eur J Epidemiol	Concerns about the long-term safety of live kidney donors are justified
+272	28403566	2017	Lonze BE	Transpl Int	Outcomes and risk stratification for late antibody-mediated rejection in recipients of ABO-incompatible kidney transplants: a retrospective study
+273	28422306	2017	Lai JC	Hepatology	Development of a novel frailty index to predict mortality in patients with end-stage liver disease
+274	28450534	2017	Massie AB	J Am Soc Nephrol	Quantifying Postdonation Risk of ESRD in Living Kidney Donors
+275	28457016	2017	Alejo JL	Clin Transplant	Patterns of primary care utilization before and after living kidney donation
+276	28742951	2017	Hobeika MJ	Am J Transplant	PROviding Better ACcess To ORgans: A comprehensive overview of organ-access initiatives from the ASTS PROACTOR Task Force
+277	28744966	2017	Henderson ML	Am J Transplant	Social media and organ donation: Ethically navigating the next frontier
+278	28935852	2017	Niranjan-Azadi AM	Ann Transplant	Single-Center Experience in Pre-transplant Hepatitis C Virus (HCV) Treatment Among Living Donor Liver Transplant Candidates: Bridging the Direct-Acting Antivirals (DAA)
+279	29032601	2017	Kumar K	Clin Transplant	Persistent regional and racial disparities in nondirected living kidney donation
+280	28771882	2018	Lentine KL	Transpl Int	Antidepressant medication use before and after kidney transplant: implications for outcomes - a retrospective study
+281	28779557	2018	Saberi B	Liver Transpl	Utilization of hepatitis C virus RNA-positive donor liver for transplant to hepatitis C virus RNA-negative recipient
+282	28834181	2018	Orandi BJ	Am J Transplant	Hospital readmissions following HLA-incompatible live donor kidney transplantation: A multi-center study
+283	28885489	2018	McAdams-DeMarco MA	Transplantation	Frailty and Postkidney Transplant Health-Related Quality of Life
+284	28949096	2018	Naik AS	Am J Transplant	Temporal trends, center-level variation, and the impact of prevalent state obesity rates on acceptance of obese living kidney donors
+285	28987015	2018	Dharnidharka VR	Transpl Int	Center practice drives variation in choice of US kidney transplant induction therapy: a retrospective analysis of contemporary practice
+286	29042454	2018	Lefaucheur C	J Am Soc Nephrol	Complement-Activating Anti-HLA Antibodies in Kidney Transplantation: Allograft Gene Expression Profiling and Response to Treatment
+287	29045352	2018	Mogul DB	J Pediatr Gastroenterol Nutr	Impact of Race and Ethnicity on Outcomes for Children Waitlisted for Pediatric Liver Transplantation
+288	29068176	2018	Ruck JM	Am J Transplant	Factors associated with perceived donation-related financial burden among living kidney donors
+289	29116674	2018	Bowring MG	Am J Transplant	Turn down for what? Patient outcomes associated with declining increased infectious risk kidneys
+290	29165871	2018	Treat E	Am J Transplant	Shipping living donor kidneys and transplant recipient outcomes
+291	29222929	2018	Cash A	Clin Transplant	HIV+ deceased donor referrals: A national survey of organ procurement organizations
+292	29232040	2018	Zhou S	Am J Transplant	Geographic disparity in kidney transplantation under KAS
+293	29243394	2018	Haas M	Am J Transplant	The Banff 2017 Kidney Meeting Report: Revised diagnostic criteria for chronic active T cell-mediated rejection, antibody-mediated rejection, and prospects for integrative endpoints for next-generation clinical trials
+294	29281129	2018	Ruck JM	Clin Transplant	Electronic messaging and communication with living kidney donors
+295	29292861	2018	Montgomery RA	Am J Transplant	Antibody-mediated rejection: New approaches in prevention and management
+296	29316203	2018	Wey A	Liver Transpl	Offer acceptance practices and geographic variability in allocation model for end-stage liver disease at transplant
+297	29316310	2018	Luo X	Am J Transplant	MELD as a metric for survival benefit of liver transplantation
+298	29329515	2018	Van Pilsum Rasmussen S	BMC Nephrol	Engaging clinicians and patients to assess and improve frailty measurement in adults with end stage renal disease
+299	29333639	2018	Shelton BA	Am J Transplant	Decreasing deceased donor transplant rates among children (≤6 years) under the new kidney allocation system
+300	29380529	2018	Lai JC	Am J Transplant	Physical frailty after liver transplantation
+301	29433426	2018	Schoenborn NL	BMC Geriatr	Older adults' perceptions and informational needs regarding frailty
+302	29437286	2018	Holscher CM	Am J Transplant	Kidney exchange match rates in a large multicenter clearinghouse
+303	29474675	2018	Sandal S	Nephrol Dial Transplant	Machine perfusion and long-term kidney transplant recipient outcomes across allograft risk strata
+304	29498196	2018	Lentine KL	Am J Transplant	Prescription opioid use before and after kidney transplant: Implications for posttransplant outcomes
+305	29512868	2018	Werbel WA	Transpl Infect Dis	Lymphopenia is associated with late onset Pneumocystis jirovecii pneumonia in solid organ transplantation
+306	29577448	2018	DiBrito SR	Clin Transplant	Surgical approach, cost, and complications of appendectomy in kidney transplant recipients
+307	29603640	2018	Flechner SM	Am J Transplant	The first 9 years of kidney paired donation through the National Kidney Registry: Characteristics of donors and recipients compared with National Live Donor Transplant Registries
+308	29655237	2018	Baksh SN	Pharmacoepidemiol Drug Saf	Cardiovascular safety signals with dipeptidyl peptidase-4 inhibitors: A disproportionality analysis among high-risk patients
+309	29677074	2018	McAdams-DeMarco MA	Transplantation	Frailty, Inflammatory Markers, and Waitlist Mortality Among Patients With End-stage Renal Disease in a Prospective Cohort Study
+310	29685884	2018	Haugen CE	J Am Soc Nephrol	Incidence, Risk Factors, and Sequelae of Post-kidney Transplant Delirium
+311	29688995	2018	Zhou S	Transplantation	Correlation Between Kidney Transplant Outcome Metrics and Waitlist Metrics
+312	29701909	2018	Axelrod DA	Am J Transplant	The impact of direct-acting antiviral agents on liver and kidney transplant costs and outcomes
+313	29724118	2018	Van Pilsum Rasmussen SE	AIDS Care	Perceptions, motivations, and concerns about living organ donation among people living with HIV
+314	29791039	2018	Kumar K	Clin Transplant	Racial differences in completion of the living kidney donor evaluation process
+315	29802802	2018	Van Pilsum Rasmussen SE	Transpl Int	Reported effects of the Scientific Registry of Transplant Recipients 5-tier rating system on US transplant centers: results of a national survey
+316	29884126	2018	Ruck JM	BMC Nephrol	Interviews of living kidney donors to assess donation-related concerns and information-gathering practices
+317	29920936	2018	Bowring MG	Am J Transplant	"Consent and labeling in the use of infectious risk donor kidneys: A response to ""Information Overload"""
+318	29923365	2018	Adam R	Liver Transpl	A Systematic Review and Meta-Analysis of Cold In Situ Perfusion and Preservation of the Hepatic Allograft: Working Toward a Unified Approach
+319	29947471	2018	Durand CM	Am J Transplant	Organs from deceased donors with false-positive HIV screening tests: An unexpected benefit of the HOPE act
+320	29952925	2018	Henderson ML	Transplantation	Landscape of Living Multiorgan Donation in the United States: A Registry-Based Cohort Study
+321	30046654	2018	Nazzal M	Transplant Direct	Center-driven and Clinically Driven Variation in US Liver Transplant Maintenance Immunosuppression Therapy: A National Practice Patterns Analysis
+322	30052316	2018	Luo X	Am J Transplant	MELD allocation system: There is always space to improve
+323	30063811	2018	Holscher CM	Am J Transplant	Temporal changes in the composition of a large multicenter kidney exchange clearinghouse: Do the hard-to-match accumulate?
+324	30064724	2018	DiBrito SR	Am J Surg	Complications, length of stay, and cost of cholecystectomy in kidney transplant recipients
+325	30074638	2018	Van Pilsum Rasmussen SE	Clin Transplant	Knowledge, attitudes, and planned practice of HIV-positive to HIV-positive transplantation in US transplant centers
+326	30086198	2018	Holscher CM	Am J Transplant	Living donor postnephrectomy kidney function and recipient graft loss: A dose-response relationship
+327	30093374	2018	McAdams-DeMarco MA	Clin J Am Soc Nephrol	Dementia, Alzheimer's Disease, and Mortality after Hemodialysis Initiation
+328	30144258	2018	Shaffer AA	Transpl Infect Dis	Changes in practice and perception of hepatitis C and liver transplantation: Results of a national survey
+329	30152107	2018	Konel JM	Clin Transplant	Depressive symptoms, frailty, and adverse outcomes among kidney transplant recipients
+330	30169460	2018	Ruck JM	Curr Opin Nephrol Hypertens	Expanding deceased donor kidney transplantation: medical risk, infectious risk, hepatitis C virus, and HIV
+331	30171817	2018	Bynum JP	Transfusion	Transfusion of leukoreduced blood products and risk of antibody-mediated rejection of renal allografts
+332	30176670	2018	Warsame F	Am J Nephrol	Intradialytic Activities and Health-Related Quality of Life Among Hemodialysis Patients
+333	30180815	2018	Holscher CM	BMC Nephrol	Anxiety, depression, and regret of donation in living kidney donors
+334	30197966	2018	Muzaale AD	Kidney Int Rep	Lower Mortality in Living Kidney Donors With ESRD Versus Matched Nondonors With ESRD
+335	30198905	2018	Kandathil AJ	J Clin Invest	No recovery of replication-competent HIV-1 from human liver macrophages
+336	30340462	2018	Nastasi AJ	BMC Geriatr	Pre-kidney transplant lower extremity impairment and transplant length of stay: a time-to-discharge analysis of a prospective cohort study
+337	29219209	2019	Tan J	Nephrology (Carlton)	Warfarin use and the risk of stroke, bleeding, and mortality in older adults on dialysis with incident atrial fibrillation
+338	29709366	2019	Muzaale AD	Surgery	Databases for surgical health services research: National Health and Nutrition Examination Survey
+339	29868775	2019	Fitzpatrick J	Nephrol Dial Transplant	Frailty, body composition and the risk of mortality in incident hemodialysis patients: the Predictors of Arrhythmic and Cardiovascular Risk in End Stage Renal Disease study
+340	29935051	2019	Bae S	Am J Transplant	Who can tolerate a marginal kidney? Predicting survival after deceased donor kidney transplant by donor-recipient combination
+341	29962069	2019	Warsame F	Am J Transplant	Limited health literacy and adverse outcomes among kidney transplant candidates
+342	30130329	2019	Ruck JM	Transplantation	Temporal Changes in the Impact of HLA Mismatching Among Pediatric Kidney Transplant Recipients
+343	30253051	2019	Holscher CM	Am J Transplant	Better graft outcomes from offspring donor kidneys among living donor kidney transplant recipients in the United States
+344	30312530	2019	Ishaque T	Am J Transplant	Liver transplantation and waitlist mortality for HCC and non-HCC candidates following the 2015 HCC exception policy change
+345	30372592	2019	Jackson KR	Am J Transplant	The national landscape of deceased donor kidney transplantation for the highly sensitized: Transplant rates, waitlist mortality, and posttransplant survival under KAS
+346	30372596	2019	Sandal S	Am J Transplant	Induction immunosuppression agents as risk factors for incident cardiovascular events and mortality after kidney transplantation
+347	30408329	2019	Garonzik-Wang JM	Am J Transplant	Mitochondrial membrane potential and delayed graft function following kidney transplantation
+348	30421841	2019	Ruck JM	Clin Transplant	Use of Twitter in communicating living solid organ donation information to the public: An exploratory study of living donors and transplant professionals
+349	30431704	2019	Kosztowski M	Am J Transplant	Geographic disparities in lung transplant rates
+350	30462375	2019	McAdams-DeMarco MA	Clin Transplant	Prehabilitation prior to kidney transplantation: Results from a pilot study
+351	30506632	2019	Kobashigawa J	Am J Transplant	Report from the American Society of Transplantation on frailty in solid organ transplantation
+352	30544114	2019	Daubresse M	Am J Nephrol	Trends in Opioid Prescribing Among Hemodialysis Patients, 2007-2014
+353	30604152	2019	Holscher CM	J Nephrol	Transplant waitlisting attenuates the association between hemodialysis access type and mortality
+354	30614634	2019	Haugen CE	Am J Transplant	Survival benefit of accepting livers from deceased donors over 70 years old
+355	30615253	2019	Al Ammary F	Am J Transplant	The landscape of international living kidney donation in the United States
+356	30625489	2019	Pérez Fernández M	Am J Nephrol	Comorbidity, Frailty, and Waitlist Mortality among Kidney Transplant Candidates of All Ages
+357	30637443	2019	Miro JM	Intensive Care Med	Challenges in solid organ transplantation in people living with HIV
+358	30653826	2019	Holscher CM	Am J Transplant	Offspring living kidney donors should not be ruled out
+359	30668935	2019	Lai JC	Gastroenterology	Frailty Associated With Waitlist Mortality Independent of Ascites and Hepatic Encephalopathy in a Multicenter Study
+360	30747847	2019	Alhamad T	Transplantation	Cannabis Dependence or Abuse in Kidney Transplantation: Implications for Posttransplant Outcomes
+361	30747853	2019	Haugen CE	Transplantation	Outcomes in Older Kidney Transplant Recipients After Prior Nonkidney Transplants
+362	30748095	2019	Haugen CE	Am J Transplant	Geographic disparities in liver supply/demand ratio within fixed-distance and fixed-population circles
+363	30838775	2019	Alloway RR	Am J Transplant	Rabbit anti-thymocyte globulin for the prevention of acute rejection in kidney transplantation
+364	30853386	2019	Hicks CW	J Vasc Surg	Practice patterns in arteriovenous fistula ligation among kidney transplant recipients in the United States Renal Data Systems
+365	30861279	2019	Bowring MG	Am J Transplant	Center-level trends in utilization of HCV-exposed donors for HCV-uninfected kidney and liver transplant recipients in the United States
+366	30875148	2019	Wasik HL	Am J Transplant	A donor risk index for graft loss in pediatric living donor kidney transplantation
+367	30903733	2019	Al Ammary F	Am J Transplant	The changing landscape of live kidney donation in the United States from 2005 to 2017
+368	30920681	2019	Durand CM	Transpl Int	Reclaiming missed opportunities: a strategy of targeted direct-acting antiviral prophylaxis for HCV-seronegative recipients of HCV-seropositive donor kidneys
+369	31012528	2019	Mankowski MA	Am J Transplant	Accelerating kidney allocation: Simultaneously expiring offers
+370	31062464	2019	Jackson KR	Am J Transplant	Pediatric deceased donor kidney transplant outcomes under the Kidney Allocation System
+371	31072668	2019	Locke JE	Surgery	Obesity and long-term mortality risk among living kidney donors
+372	31101015	2019	Shrestha P	BMC Nephrol	Racial differences in inflammation and outcomes of aging among kidney transplant candidates
+373	31126666	2019	Harhay MN	Am J Kidney Dis	Association Between Weight Loss Before Deceased Donor Kidney Transplantation and Posttransplantation Outcomes
+374	31140611	2019	Bollinger JM	Clin Transplant	Early experiences of independent advocates for potential HIV+ recipients of HIV+ donor organ transplants
+375	31145154	2019	Boyarsky BJ	Curr Opin Organ Transplant	The future of HIV Organ Policy Equity Act is now: the state of HIV+ to HIV+ kidney transplantation in the United States
+376	31194892	2019	Eno AK	Clin Transplant	Perspectives on implementing mobile health technology for living kidney donor follow-up: In-depth interviews with transplant providers
+377	31215155	2019	Mogul DB	Pediatr Transplant	Barriers to access in pediatric living-donor liver transplantation
+378	31232703	2019	Durand CM	J Clin Invest	Bypassing the bottleneck: intentional hepatitis C transmission with organ transplant
+379	31279752	2019	Ambinder RF	Biol Blood Marrow Transplant	Allogeneic Hematopoietic Cell Transplant for HIV Patients with Hematologic Malignancies: The BMT CTN-0903/AMC-080 Trial
+380	31313464	2019	Luo X	Pediatr Transplant	Predicting chance of liver transplantation for pediatric wait-list candidates
+381	31357231	2019	Werbel WA	Transpl Infect Dis	Angioinvasive, cutaneous infection due to Colletotrichum siamense in a stem cell transplant recipient: Report and review of prior cases
+382	31397964	2019	Lentine KL	Am J Transplant	Prescription opioid use before and after heart transplant: Associations with posttransplant outcomes
+383	31421057	2019	Lentine KL	Clin Transplant	Associations of obesity with antidiabetic medication use after living kidney donation: An analysis of linked national registry and pharmacy fill records
+384	31448520	2019	Durand CM	Am J Transplant	Lessons from the real world: HCV-infected donor kidney transplantation as standard practice
+385	31509169	2019	Haugen CE	JAMA Surg	Association Between Liver Transplant Wait-list Mortality and Frailty Based on Body Mass Index
+386	31530561	2019	Loupy A	BMJ	Prediction system for risk of allograft loss in patients receiving kidney transplants: international derivation and validation study
+387	31537534	2019	Holscher CM	Clin J Am Soc Nephrol	Self-Reported Incident Hypertension and Long-Term Kidney Function in Living Kidney Donors Compared with Healthy Nondonors
+388	31576370	2019	Lentine KL	Transplant Direct	Postdonation eGFR and New-Onset Antihypertensive Medication Use After Living Kidney Donation
+389	31577595	2019	Henderson ML	Curr Opin Organ Transplant	The landscape of vascularized composite allograft donation in the United States
+390	31609520	2019	Ting PS	Transpl Infect Dis	Hepatitis C-positive donor liver transplantation for hepatitis C seronegative recipients
+391	31701020	2019	Dickerson LK	NPJ Digit Med	Language impairment in adults with end-stage liver disease: application of natural language processing towards patient-generated health records
+392	32855901	2019	Liyanage L	Curr Transplant Rep	Living kidney donation in individuals with hepatitis C and HIV infection: rationale and emerging evidence
+393	30672803	2020	Haugen CE	Ann Surg	Multicenter Study of Age, Frailty, and Waitlist Mortality Among Liver Transplant Candidates
+394	31255336	2020	Holscher CM	Am J Kidney Dis	Transplanting the Untransplantable
+395	31278819	2020	Nassiri N	Am J Transplant	"The ""oldest and coldest"" shipped living donor kidneys transplanted through kidney paired donation"
+396	31411724	2020	Thomas AG	Nephrol Dial Transplant	Kidney transplant outcomes in recipients with visual, hearing, physical and walking impairments: a prospective cohort study
+397	31552699	2020	Henderson ML	Am J Transplant	Living donor program crisis management plans: Current landscape and talking point recommendations
+398	31577673	2020	Jackson KR	Transplantation	Posttransplant Outcomes for cPRA-100% Recipients Under the New Kidney Allocation System
+399	31608597	2020	Jackson KR	Am J Transplant	Temporal trends in utilization and outcomes of steatotic donor livers in the United States
+400	31675457	2020	Durand CM	Am J Transplant	Clarifying the HOPE Act landscape: The challenge of donors with false-positive HIV results
+401	31733176	2020	Haugen CE	Am J Transplant	Prevalence of frailty among kidney transplant candidates and recipients in the United States: Estimates from a National Registry and Multicenter Cohort Study
+402	31860087	2020	Chu NM	Nephrol Dial Transplant	Functional independence, access to kidney transplantation and waitlist mortality
+403	31922651	2020	Verbesey J	Am J Transplant	Early graft losses in paired kidney exchange: Experience from 10 years of the National Kidney Registry
+404	31968070	2020	Massie AB	JAMA Surg	Association of Early Postdonation Renal Function With Subsequent Risk of End-Stage Renal Disease in Living Kidney Donors
+405	31991481	2020	Shukhman E	Clin Transplant	Evaluation and care of international living kidney donor candidates: Strategies for addressing common considerations and challenges
+406	31992572	2020	Leeser DB	Clin J Am Soc Nephrol	Patient and Kidney Allograft Survival with National Kidney Paired Donation
+407	31997429	2020	Koraishy FM	Clin Transplant	Impacts of center and clinical factors in antihypertensive medication use after kidney transplantation
+408	32012451	2020	Jackson KR	Am J Transplant	Changes in offer and acceptance patterns for pediatric kidney transplant candidates under the new Kidney Allocation System
+409	32026618	2020	Messner F	Am J Transplant	Outcomes of simultaneous pancreas and kidney transplantation based on donor resuscitation
+410	32027049	2020	Axelrod DA	Clin Transplant	Economic impacts of alternative kidney transplant immunosuppression: A national cohort study
+411	32029264	2020	Chu NM	Am J Kidney Dis	Cognitive Function, Access to Kidney Transplantation, and Waitlist Mortality Among Kidney Transplant Candidates With or Without Diabetes
+412	32065704	2020	Jackson KR	Am J Transplant	How do highly sensitized patients get kidney transplants in the United States? Trends over the last decade
+413	32106202	2020	Holscher CM	Transplantation	Association Between Living Kidney Donor Postdonation Hypertension and Recipient Graft Failure
+414	32160339	2020	Qian J	Semin Dial	Selecting important predictors for arteriovenous fistula maturation in older hemodialysis patients by using random survival forests
+415	32191296	2020	Harhay MN	Nephrol Dial Transplant	An overview of frailty in kidney transplantation: measurement, management and future considerations
+416	32212292	2020	Covarrubias K	Pediatr Transplant	Determinants of length of stay after pediatric liver transplantation
+417	32240717	2020	Lai JC	J Hepatol	Changes in frailty are associated with waitlist mortality in patients with cirrhosis
+418	32282982	2020	Boyarsky BJ	Am J Transplant	Early impact of COVID-19 on transplant center practices and policies in the United States
+419	32330356	2020	Kates OS	Am J Transplant	Earliest cases of coronavirus disease 2019 (COVID-19) identified in solid organ transplant recipients in the United States
+420	32342601	2020	Garg N	Am J Transplant	Metabolic, cardiovascular, and substance use evaluation of living kidney donor candidates: US practices in 2017
+421	32342620	2020	Garg N	Am J Transplant	The kidney evaluation of living kidney donor candidates: US practices in 2017
+422	32342630	2020	Jackson KR	Am J Transplant	Outcomes of cPRA 100% deceased donor kidney transplant recipients under the new Kidney Allocation System: A single-center cohort study
+423	32372460	2020	Boyarsky BJ	Am J Transplant	Estimating the potential pool of uncontrolled DCD donors in the United States
+424	32399996	2020	Waldram MM	Clin Transplant	Long-term renal function in living kidney donors with simple renal cysts: A retrospective cohort study
+425	32400087	2020	Kates OS	Am J Transplant	"Use of SARS-CoV-2-infected deceased organ donors: Should we always ""just say no?"""
+426	32430941	2020	Roth AE	Transpl Int	Global kidney exchange should expand wisely
+427	32457228	2020	Muzaale AD	Clin J Am Soc Nephrol	Benzodiazepines, Codispensed Opioids, and Mortality among Patients Initiating Long-Term In-Center Hemodialysis
+428	32502285	2020	Vest LS	Clin Transplant	Prescription patterns of opioids and non-steroidal anti-inflammatory drugs in the first year after living kidney donation: An analysis of U.S. Registry and Pharmacy fill records
+429	32502313	2020	Kates OS	Am J Transplant	"Emerging evidence to support not always ""just saying no"" to SARS-CoV-2 positive donors"
+430	32510628	2020	Lam NN	Clin Transplant	Outcome implications of benzodiazepine and opioid co-prescription in kidney transplant recipients
+431	32515544	2020	Massie AB	Am J Transplant	Identifying scenarios of benefit or harm from kidney transplantation during the COVID-19 pandemic: A stochastic simulation and machine learning study
+432	32524764	2020	Al Ammary F	Am J Transplant	The first increase in live kidney donation in the United States in 15 years
+433	32535833	2020	Eccher A	J Nephrol	Donor-transmitted cancer in kidney transplant recipients: a systematic review
+434	32594606	2020	Boyarsky BJ	Am J Transplant	Early national and center-level changes to kidney transplantation in the United States during the COVID-19 epidemic
+435	32649866	2020	Durand CM	Lancet HIV	Allogeneic bone marrow transplantation with post-transplant cyclophosphamide for patients with HIV and haematological malignancies: a feasibility study
+436	32652700	2020	Weeks SR	Clin Transplant	Steroid-sparing maintenance immunosuppression is safe and effective after simultaneous liver-kidney transplantation
+437	32654891	2020	Qian JZ	Am J Kidney Dis	Arteriovenous Fistula Placement, Maturation, and Patency Loss in Older Patients Initiating Hemodialysis
+438	32695395	2020	Van Pilsum Rasmussen SE	SAGE Open Med	Psychosocial factors and medication adherence among recipients of vascularized composite allografts
+439	32701595	2020	Wilkinson TJ	Curr Opin Nephrol Hypertens	Advances in exercise therapy in predialysis chronic kidney disease, hemodialysis, peritoneal dialysis, and kidney transplantation
+440	32730756	2020	Bonny TS	Lancet HIV	Outcomes of donor-derived superinfection screening in HIV-positive to HIV-positive kidney and liver transplantation: a multicentre, prospective, observational study
+441	32791046	2020	Ambinder RF	Lancet HIV	Haemopoietic cell transplantation in patients living with HIV
+442	32808320	2020	Lentine KL	Clin Transplant	Care of international living kidney donor candidates in the United States: A survey of contemporary experience, practice, and challenges
+443	32810365	2020	Van Pilsum Rasmussen SE	Clin Transplant	Public education materials about Vascular Composite Allotransplantation and donation in the United States: Current scope and limitations
+444	32852554	2020	Purnell TS	JAMA Netw Open	National Trends in the Association of Race and Ethnicity With Predialysis Nephrology Care in the United States From 2005 to 2015
+445	32860307	2020	Strauss AT	Am J Transplant	Impact of the COVID-19 pandemic on commercial airlines in the United States and implications for the kidney transplant community
+446	32883245	2020	McAdams-DeMarco MA	BMC Nephrol	Interventions Made to Preserve Cognitive Function Trial (IMPCT) study protocol: a multi-dialysis center 2x2 factorial randomized controlled trial of intradialytic cognitive and exercise training to preserve cognitive function
+447	32996170	2020	Bae S	Transpl Int	Machine learning to predict transplant outcomes: helpful or hype? A national cohort study
+448	33048372	2020	Lentine KL	Clin Transplant	Hydroxychloroquine and maintenance immunosuppression use in kidney transplant recipients: Analysis of linked US registry and claims data
+449	33048385	2020	Wang L	Clin Transplant	Induction immunosuppression and the risk of incident malignancies among older and younger kidney transplant recipients: A prospective cohort study
+450	33057387	2020	Baksh SN	PLoS One	Dipeptidyl peptidase-4 inhibitors and cardiovascular events in patients with type 2 diabetes, without cardiovascular or renal disease
+451	33167882	2020	Levan ML	BMC Nephrol	Financial incentives versus standard of care to improve patient compliance with live kidney donor follow-up: protocol for a multi-center, parallel-group randomized controlled trial
+452	32235255	2021	Jackson KR	Transplantation	Center-level Variation in HLA-incompatible Living Donor Kidney Transplantation Outcomes
+453	32475718	2021	Sutton W	Surgery	Understanding surgical decision-making in older adults with differentiated thyroid cancer: A discrete choice experiment
+454	32491208	2021	Kardashian A	Hepatology	Identifying an Optimal Liver Frailty Index Cutoff to Predict Waitlist Mortality in Liver Transplant Candidates
+455	32506639	2021	Jackson KR	Am J Transplant	Characterizing the landscape and impact of infections following kidney transplantation
+456	32659036	2021	Yu S	Am J Transplant	Survival benefit of accepting kidneys from older donation after cardiac death donors
+457	32681603	2021	Werbel WA	Am J Transplant	Early steroid withdrawal in HIV-infected kidney transplant recipients: Utilization and outcomes
+458	32701209	2021	Durand CM	Am J Transplant	A prospective multicenter pilot study of HIV-positive deceased donor to HIV-positive recipient kidney transplantation: HOPE in action
+459	32781106	2021	Raynaud M	Kidney Int	Trajectories of glomerular filtration rate and progression to end stage kidney disease after kidney transplantation
+460	32808468	2021	Karami F	Am J Transplant	Allocating kidneys in optimized heterogeneous circles
+461	32949093	2021	Avery RK	Am J Transplant	Quantifying infection risks in incompatible living donor kidney transplant recipients
+462	32980942	2021	Charnaya O	Pediatr Nephrol	Effects of COVID-19 pandemic on pediatric kidney transplant in the United States
+463	33093404	2021	Bae S	Transplantation	Early Changes in Kidney Transplant Immunosuppression Regimens During the COVID-19 Pandemic
+464	33107180	2021	Strauss AT	Am J Transplant	Liver transplantation in the United States during the COVID-19 pandemic: National and center-level responses
+465	33214534	2021	Lentine KL	Transplantation	Immunosuppression Regimen Use and Outcomes in Older and Younger Adult Kidney Transplant Recipients: A National Registry Analysis
+466	33259086	2021	Bae S	Clin Transplant	Inconsistencies in the association of clinical factors with the choice of early steroid withdrawal across kidney transplant centers: A national registry study
+467	33277801	2021	Peters MG	Am J Transplant	Retrospective-prospective study of safety and efficacy of sofosbuvir-based direct-acting antivirals in HIV/HCV-coinfected participants with decompensated liver disease pre- or post-liver transplant
+468	33284498	2021	Avery RK	Am J Transplant	Inpatient COVID-19 outcomes in solid organ transplant recipients compared to non-solid organ transplant patients: A retrospective cohort
+469	33314321	2021	de Paula MI	Transpl Int	Decreased incidence of acute rejection without increased incidence of cytomegalovirus (CMV) infection in kidney transplant recipients receiving rabbit anti-thymocyte globulin without CMV prophylaxis - a cohort single-center study
+470	33349940	2021	Heldman MR	Clin Transplant	Healthcare resource use among solid organ transplant recipients hospitalized with COVID-19
+471	33370501	2021	Kates OS	Am J Transplant	The limits of refusal: An ethical review of solid organ transplantation and vaccine hesitancy
+472	33370502	2021	Motter JD	Am J Transplant	Delayed graft function and acute rejection following HLA-incompatible living donor kidney transplantation
+473	33534525	2021	Mathur A	Transplantation	Association Between Treatment of Secondary Hyperparathyroidism and Posttransplant Outcomes
+474	33559349	2021	Boyarsky BJ	Am J Transplant	"Response to ""The real number of organs from uncontrolled donation after circulatory determination of death donors"""
+475	33570795	2021	Messner F	Transpl Int	Recipient age and outcome after pancreas transplantation: a retrospective dual-center analysis
+476	33622271	2021	Daubresse M	BMC Nephrol	High-dose opioid utilization and mortality among individuals initiating hemodialysis
+477	33647551	2021	Girolami I	Transplant Rev (Orlando)	Discovered cancers at postmortem donor examination: A starting point for quality improvement of donor assessment
+478	33846078	2021	Lentine KL	J Heart Lung Transplant	Survival implications of prescription opioid and benzodiazepine use in lung transplant recipients: Analysis of linked transplant registry and pharmacy fill records
+479	33856113	2021	Werbel WA	Am J Transplant	Clearing the hepatitis hurdle: Obstacles and opportunities in liver transplantation for people with HIV
+480	33858358	2021	Daubresse M	BMC Nephrol	Correction to: High-dose opioid utilization and mortality among individuals initiating hemodialysis
+481	33870635	2021	Ishaque T	Am J Transplant	MELD is MELD is MELD? Transplant center-level variation in waitlist mortality for candidates with the same biological MELD
+482	33870639	2021	Feng Y	Am J Transplant	Ambient air pollution and posttransplant outcomes among kidney transplant recipients
+483	33891805	2021	Wood NL	Am J Transplant	Liver simulated allocation model does not effectively predict organ offer decisions for pediatric liver transplant candidates
+484	33895851	2021	Harhay MN	Nephrol Dial Transplant	Pre-kidney transplant unintentional weight loss leads to worse post-kidney transplant outcomes
+485	34008917	2021	Heldman MR	Am J Transplant	COVID-19 in hospitalized lung and non-lung solid organ transplant recipients: A comparative analysis from a multicenter study
+486	34043865	2021	Oseini AM	Liver Transpl	Liver Transplantation in Short Telomere-Mediated Hepatopulmonary Syndrome Following Bone Marrow Transplantation Using HCV Positive Allografts: A Case Series
+487	34050961	2021	Sandal S	Clin Transplant	Immunosuppression practices during the COVID-19 pandemic: A multinational survey study of transplant programs
+488	34100108	2021	Charnaya O	Pediatr Nephrol	Eplet mismatches associated with de novo donor-specific HLA antibody in pediatric kidney transplant recipients
+489	34129713	2021	Al Ammary F	Transpl Int	Long-term kidney function and survival in recipients of allografts from living kidney donors with hypertension: a national cohort study
+490	34143755	2021	Stock PG	J Clin Invest	Interpreting and addressing suboptimal immune responses after COVID-19 vaccination in solid-organ transplant recipients
+491	34153489	2021	Sorber R	Ann Vasc Surg	Quantifying The Costs of Creating and Maintaining Hemodialysis Access in An All-Payer Rate-Controlled Health System
+492	34210786	2021	Heeger PS	Sci Immunol	Implications of defective immune responses in SARS-CoV-2 vaccinated organ transplant recipients
+493	34216086	2021	Karaba AH	Transpl Infect Dis	Interleukin-18 and tumor necrosis factor-α are elevated in solid organ transplant recipients with possible cytomegalovirus end-organ disease
+494	34219362	2021	Xu CQ	Liver Int	The relationship between frailty and cirrhosis etiology: From the Functional Assessment in Liver Transplantation (FrAILT) Study
+495	34272777	2021	Chu NM	Clin Transplant	Cognitive impairment burden in older and younger adults across the kidney transplant care continuum
+496	34325492	2021	Heldman MR	Transpl Infect Dis	Immunosuppression in solid organ transplant recipients with Covid-19: More data, but still complicated
+497	34342054	2021	Kasiske BL	Clin Transplant	Outcomes of living liver donor candidate evaluations in the Living Donor Collective pilot registry
+498	34355512	2021	Sandal S	Am J Transplant	Comparing outcomes of third and fourth kidney transplantation in older and younger patients
+499	34404825	2021	Baksh S	Sci Rep	Dipeptidyl peptidase-4 inhibitor cardiovascular safety in patients with type 2 diabetes, with cardiovascular and renal disease: a retrospective cohort study
+500	34456108	2021	Hallett AM	J Heart Lung Transplant	SARS-CoV-2 messenger RNA vaccine antibody response and reactogenicity in heart and lung transplant recipients
+501	34463013	2021	Predmore Z	Transpl Infect Dis	Potential donor characteristics and decisions made by organ procurement organization staff: Results of a discrete choice experiment
+502	34476294	2021	Ahn JB	Transplant Direct	The Risk of Postkidney Transplant Outcomes by Induction Choice Differs by Recipient Age
+503	34483298	2021	Alsaad R	Curr Opin Nephrol Hypertens	The clinical application of frailty in nephrology and transplantation
+504	34549082	2021	Strauss AT	Transplant Direct	Pretransplant Hepatitis C Virus Treatment Decreases Access to High-quality Livers
+505	34756569	2021	Raynaud M	Lancet Digit Health	Dynamic prediction of renal survival among deeply phenotyped kidney transplant recipients using artificial intelligence: an observational, international, multicohort study
+506	34912947	2021	Ahn JB	Transplant Direct	Effect of Early Steroid Withdrawal on Posttransplant Diabetes Among Kidney Transplant Recipients Differs by Recipient Age
+507	35072042	2021	Axelrod DA	Kidney Med	Posttransplant Diabetes Mellitus and Immunosuppression Selection in Older and Obese Kidney Recipients
+508	35155863	2021	Sise ME	Kidney Int Rep	One-Year Outcomes of the Multi-Center StudY to Transplant Hepatitis C-InfeCted kidneys (MYTHIC) Trial
+509	35296039	2021	Bosi A	Clin Kidney J	Use of nephrotoxic medications in adults with chronic kidney disease in Swedish and US routine care
+510	35373112	2021	Fitzpatrick J	Kidney360	Frailty, Age, and Postdialysis Recovery Time in a Population New to Hemodialysis
+511	34049363	2022	Hallett AM	Transplantation	Ambient Air Pollution and Adverse Waitlist Events Among Lung Transplant Candidates
+512	34115459	2022	Sandal S	Transplantation	Evolving Trends in Risk Profiles and Outcomes in Older Adults Undergoing Kidney Retransplantation
+513	34212501	2022	Osbun N	Am J Transplant	The benefit to waitlist patients in a national paired kidney exchange program: Exploring characteristics of chain end living donor transplants
+514	34266650	2022	Sutton W	Surgery	Prevalence and risk factors for tertiary hyperparathyroidism in kidney transplant recipients
+515	34342961	2022	Levan ML	Transplantation	After 20 Years of Advocacy, Comprehensive Immunosuppressive Drug Coverage for Kidney Transplant Patients Finally Become Law
+516	34464500	2022	Jackson KR	Am J Transplant	Rethinking incompatibility in kidney transplantation
+517	34467618	2022	Chipman V	Am J Transplant	Motivations and outcomes of compatible living donor-recipient pairs in paired exchange
+518	34487636	2022	Wood NL	Am J Transplant	Life expectancy without a transplant for status 1A liver transplant candidates
+519	34514710	2022	Heldman MR	Am J Transplant	Changing trends in mortality among solid organ transplant recipients hospitalized for COVID-19 during the course of the pandemic
+520	34517430	2022	Qin CX	Am J Transplant	Antibody response to 2-dose SARS-CoV-2 mRNA vaccination in pediatric solid organ transplant recipients
+521	34706165	2022	Kates OS	Am J Transplant	Ethical review of COVID-19 vaccination requirements for transplant center staff and patients
+522	34741800	2022	Durand CM	Am J Transplant	HOPE in action: A prospective multicenter pilot study of liver transplantation from donors with HIV to recipients with HIV
+523	34850174	2022	Chu NM	Nephrol Dial Transplant	Chronic kidney disease, physical activity and cognitive function in older adults-results from the National Health and Nutrition Examination Survey (2011-2014)
+524	34862808	2022	Lai JC	Hepatology	Frailty, mortality, and health care utilization after liver transplantation: From the Multicenter Functional Assessment in Liver Transplantation (FrAILT) Study
+525	34905269	2022	Saharia KK	Transpl Infect Dis	Clinical characteristics of COVID-19 in solid organ transplant recipients following COVID-19 vaccination: A multicenter case series
+526	34951746	2022	Karaba AH	Am J Transplant	A third dose of SARS-CoV-2 vaccine increases neutralizing antibodies against variants of concern in solid organ transplant recipients
+527	34953170	2022	Chen X	Am J Transplant	Revision of frailty assessment in kidney transplant recipients: Replacing unintentional weight loss with CT-assessed sarcopenia in the physical frailty phenotype
+528	35022176	2022	Sandal S	BMJ Open	Impact of the COVID-19 pandemic on transplantation by income level and cumulative COVID-19 incidence: a multinational survey study
+529	35086480	2022	Chen X	BMC Geriatr	Transplant centers that assess frailty as part of clinical practice have better outcomes
+530	35107835	2022	Mehta SA	Clin Transplant	Immunogenicity after heterologous third dose COVID-19 vaccination in a heart transplant recipient
+531	35112490	2022	Motter JD	Am J Transplant	Don't stop thinking about tomorrow: Ascertainment bias in pre-post design transplant registry studies
+532	35119179	2022	Werbel WA	Am J Transplant	SARS-CoV-2 antibody testing for transplant recipients: A tool to personalize protection versus COVID-19
+533	35123768	2022	Sutton W	Am J Surg	Impact of the 2015 American thyroid association guidelines on treatment in older adults with low-risk, differentiated thyroid cancer
+534	35212363	2022	Heldman MR	Clin Infect Dis	Delayed mortality among solid organ transplant recipients hospitalized for COVID-19
+535	35294799	2022	Massie AB	Am J Transplant	Quantifying excess deaths among solid organ transplant recipients in the COVID-19 era
+536	35314072	2022	Mathur A	Surgery	Increasing rates of parathyroidectomy to treat secondary hyperparathyroidism in dialysis patients with Medicare coverage
+537	35338697	2022	Ross-Driscoll K	Am J Transplant	Listing at non-local transplant centers is associated with increased access to deceased donor kidney transplantation
+538	35389558	2022	Strauss AT	Liver Transpl	Severe acute respiratory syndrome coronavirus 2 antibody response to a third dose of homologous messenger RNA vaccination in liver transplantation recipients
+539	35429211	2022	Chiang TP	Am J Transplant	Heterologous Ad.26.COV2.S versus homologous BNT162b2/mRNA-1273 as a third dose in solid organ transplant recipients seronegative after two-dose mRNA vaccination
+540	35460882	2022	Berry KA	Ann Hepatol	Loneliness in adults awaiting liver transplantation at 7 U.S. transplant centers
+541	35486021	2022	Chen X	Am J Transplant	Moving toward clinical implementation of the physical frailty phenotype in kidney transplantation
+542	35510786	2022	Qin CX	Am J Transplant	Antibody response to three SARS-CoV-2 mRNA vaccines in adolescent solid organ transplant recipients
+543	35575439	2022	Al Ammary F	Am J Transplant	Telemedicine services for living kidney donation: A US survey of multidisciplinary providers
+544	35576009	2022	Mitchell J	JAMA Netw Open	Comparison of SARS-CoV-2 Antibody Response After 2-Dose mRNA-1273 vs BNT162b2 Vaccines in Incrementally Immunosuppressed Patients
+545	35587191	2022	Ross-Driscoll K	Am J Transplant	"Response to ""non-local kidney transplantation and transplant outcomes"""
+546	35669410	2022	Kuppachi S	Kidney Med	Kidney Transplantation, Immunosuppression and the Risk of Fracture: Clinical and Economic Implications
+547	35670813	2022	Chang A	Clin Transplant	Improved humoral immunogenicity with mRNA-1273 versus BNT162b2 as third vaccine dose among solid organ transplant recipients seronegative after two BNT162b2 doses
+548	35694557	2022	Chen X	Kidney Int Rep	Depressive Symptoms at Kidney Transplant Evaluation and Access to the Kidney Transplant Waitlist
+549	35710989	2022	Levan ML	Nat Med	Questions of accountability and transparency in the US organ donation and transplantation system
+550	35726679	2022	Strauss AT	Liver Transpl	Multicenter study of racial and ethnic inequities in liver transplantation evaluation: Understanding mechanisms and identifying solutions
+551	35777619	2022	Kolarich AR	J Vasc Interv Radiol	Radiofrequency Ablation versus Transarterial Chemoembolization in Patients with Hepatocellular Carcinoma Awaiting Liver Transplant: An Analysis of the Scientific Registry of Transplant Recipients
+552	35791054	2022	Chang A	Hepatol Commun	Letter to the editor: Six-month antibody kinetics and durability in liver transplant recipients after two doses of SARS-CoV-2 mRNA vaccination
+553	35804289	2022	Shrestha P	BMC Geriatr	Defining the ethical considerations surrounding kidney transplantation for frail and cognitively impaired patients: a Delphi study of geriatric transplant experts
+554	35822545	2022	Chang A	Clin Transplant	Immunogenicity of Ad26.COV2.S prime and two subsequent doses of mRNA SARS-CoV-2 vaccines in solid organ transplant recipients: A case series
+555	35849522	2022	Lushniak SA	Curr Opin Infect Dis	Donors with human immunodeficiency virus and hepatitis C virus for solid organ transplantation: what's new
+556	35854169	2022	Akshat S	Health Care Manag Sci	Heterogeneous donor circles for fair liver transplant allocation
+557	35869809	2022	Bae S	Am J Transplant	mTOR inhibitors, mycophenolates, and other immunosuppression regimens on antibody response to SARS-CoV-2 mRNA vaccines in solid organ transplant recipients
+558	35870132	2022	Boyarsky BJ	Transpl Infect Dis	Maximizing HIV Organ Policy Equity for transplant candidates with HIV
+559	35980673	2022	Chu NM	Am J Transplant	Delirium, changes in cognitive function, and risk of diagnosed dementia after kidney transplantation
+560	36062407	2022	Levan ML	Am J Transplant	Maximizing the use of potential donors through increased rates of family approach for authorization
+561	36073912	2022	Alejo JL	Clin Transplant	Antibody response to a third dose of SARS-CoV-2 vaccine in heart and lung transplant recipients
+562	36284928	2022	Bisen SS	Transplant Direct	Patient and Graft Survival After A1/A2-incompatible Living Donor Kidney Transplantation
+563	36345940	2022	Benner SE	JCI Insight	The effect of induction immunosuppression for kidney transplant on the latent HIV reservoir
+564	36354254	2022	Kates OS	Curr Opin Organ Transplant	Approaches to pretransplant vaccination
+565	36399462	2022	Killian AC	PLoS One	Diabetes-free survival among living kidney donors and non-donors with obesity: A longitudinal cohort study
+566	36535636	2022	Warsame F	Nephrol Dial Transplant	Sleep duration and cognitive function among older adults with chronic kidney disease - results from the National Health and Nutrition Examination Survey (2011-2014)
+567	36570971	2022	Czech MM	Open Forum Infect Dis	Disseminated Tuberculosis With an Atypical Cutaneous Manifestation in a Hematopoietic Cell Transplant Patient in the Early Posttransplant Period: Case Report and Review of the Literature
+568	36572246	2022	Truchot A	Kidney Int	Machine learning does not outperform traditional statistical modelling for kidney allograft failure prediction
+569	36590744	2022	Ruck JM	JTCVS Open	Trends and three-year outcomes of hepatitis C virus-viremic donor heart transplant for hepatitis C virus-seronegative recipients
+570	35696252	2023	Wood NL	Liver Transpl	Logistical burden of offers and allocation inefficiency in circle-based liver allocation
+571	35816202	2023	Charnaya O	Pediatr Nephrol	The unfinished journey toward transplant equity: an analysis of racial/ethnic disparities for children after the implementation of the Kidney Allocation System in 2014
+572	36207160	2023	Ruck JM	J Thorac Cardiovasc Surg	Trends in use and three-year outcomes of hepatitis C virus-viremic donor lung transplants for hepatitis C virus-seronegative recipients
+573	36244806	2023	Crepeau P	Surgery	Hyperparathyroidism at 1 year after kidney transplantation is associated with graft loss
+574	36283115	2023	Shafaat O	Radiology	Association between Abdominal CT Measurements of Body Composition before Deceased Donor Liver Transplant with Posttransplant Outcomes
+575	36437691	2023	Mitchell J	Clin Transplant	6-month antibody kinetics and durability after four doses of a SARS-CoV-2 vaccine in solid organ transplant recipients
+576	36444666	2023	Al Ammary F	Curr Opin Nephrol Hypertens	Changing landscape of living kidney donation and the role of telemedicine
+577	36446662	2023	Mathur A	Surgery	Corrigendum to: Increasing rates of parathyroidectomy to treat secondary hyperparathyroidism in dialysis patients with Medicare coverage, Surgery, Volume 172, Issue 1, July 2022, pages 118-126
+578	36622257	2023	Lentine KL	Clin Transplant	Factors enabling transplant program participation in the Scientific Registry of Transplant Recipients (SRTR) Living Donor Collective: A national survey
+579	36651598	2023	Alejo JL	Clin Transplant	Patient-reported outcomes after Tixagevimab and Cilgavimab pre-exposure prophylaxis among solid organ transplant recipients: Safety, effectiveness, and perceptions of risk
+580	36728621	2023	Chen PH	Liver Transpl	Patient reflections, challenges, and supports related to early liver transplant for severe alcohol-associated liver disease
+581	36731783	2023	Sandal S	Am J Transplant	Trends in the survival benefit of repeat kidney transplantation over the past 3 decades
+582	36737866	2023	Ivanics T	Liver Int	Outcomes after liver transplantation using deceased after circulatory death donors: A comparison of outcomes in the UK and the US
+583	36752566	2023	Kim MH	Clin Transplant	Early initiation of glecaprevir/pibrentasvir after transplantation of HCV-viremic kidneys into HCV-negative recipients is associated with normalization in the altered inflammatory milieu
+584	36786505	2023	Strauss AT	Clin Transplant	Critical interactions between race and the highly granular area deprivation index in liver transplant evaluation
+585	36811329	2023	Liu Y	Clin Transplant	Post-kidney transplant body mass index trajectories are associated with graft loss and mortality
+586	36890643	2023	BaeKMD S	J Am Soc Nephrol	Statins in Kidney Transplant Recipients: Usage, All-Cause Mortality, and Interactions with Maintenance Immunosuppressive Agents
+587	36906295	2023	Karaba AH	Am J Transplant	Neutralizing activity and 3-month durability of tixagevimab and cilgavimab prophylaxis against Omicron sublineages in transplant recipients
